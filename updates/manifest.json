@@ -8,6 +8,14 @@
         "notes": "",
         "available": true
       }
+    },
+    "testflight": {
+      "ios": {
+        "version": "0.2.9",
+        "build": 39,
+        "notes": "",
+        "available": true
+      }
     }
   }
 }
