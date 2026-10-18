@@ -11,9 +11,9 @@
     },
     "testflight": {
       "ios": {
-        "version": "0.2.9",
-        "build": 39,
-        "notes": "",
+        "version": "0.2.10",
+        "build": 40,
+        "notes": "覺醒畫面新增兵書正常取得方式、材料缺口與關卡／試煉捷徑，返回保留武將與覺醒位置。新增啟動及設定中的版本更新檢查，支援 Google Play 更新或前往 TestFlight。保留既有測試補給、無限軍械券及精兵提示。",
         "available": true
       }
     }
