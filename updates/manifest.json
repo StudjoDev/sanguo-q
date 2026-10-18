@@ -3,9 +3,9 @@
   "channels": {
     "internal": {
       "android": {
-        "version": "0.2.13",
-        "build": 43,
-        "notes": "版本更新至0.2.13",
+        "version": "0.2.14",
+        "build": 44,
+        "notes": "版本更新至0.2.14",
         "available": true
       }
     },
