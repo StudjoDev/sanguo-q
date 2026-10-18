@@ -3,9 +3,9 @@
   "channels": {
     "internal": {
       "android": {
-        "version": "0.2.10",
-        "build": 40,
-        "notes": "覺醒畫面新增兵書取得方式、缺口與關卡／試煉捷徑。新增啟動與設定中的版本更新檢查。",
+        "version": "0.2.11",
+        "build": 41,
+        "notes": "版本更新至0.2.11",
         "available": true
       }
     },
