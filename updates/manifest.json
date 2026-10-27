@@ -3,9 +3,9 @@
   "channels": {
     "internal": {
       "android": {
-        "version": "0.2.33",
-        "build": 62,
-        "notes": "版本更新至0.2.33",
+        "version": "0.2.34",
+        "build": 63,
+        "notes": "0.2.34：所有武將與兵種第 0 階改為影片動作，覺醒造型沿用；修正多支普攻刀光",
         "available": true
       }
     },
