@@ -3,9 +3,9 @@
   "channels": {
     "internal": {
       "android": {
-        "version": "0.2.35",
-        "build": 64,
-        "notes": "0.2.35：32 位武將換上新走路動畫",
+        "version": "0.2.36",
+        "build": 65,
+        "notes": "0.2.36：武將頁眨眼修正、張角鬍子修正、新 App 圖示",
         "available": true
       }
     },
