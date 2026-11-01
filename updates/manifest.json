@@ -3,9 +3,9 @@
   "channels": {
     "internal": {
       "android": {
-        "version": "0.2.36",
-        "build": 67,
-        "notes": "出征頁改用藍色背景；橫向戰鬥時開場影片改為直向播放",
+        "version": "0.2.37",
+        "build": 68,
+        "notes": "版本更新至0.2.37",
         "available": true
       }
     },
