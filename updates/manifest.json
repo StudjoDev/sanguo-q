@@ -3,9 +3,9 @@
   "channels": {
     "internal": {
       "android": {
-        "version": "0.2.37",
-        "build": 68,
-        "notes": "版本更新至0.2.37",
+        "version": "0.2.38",
+        "build": 72,
+        "notes": "版本更新至0.2.38；統一武將與裝備詳細頁入口，修正升級強化資訊、穿戴標籤及各頁返回來源。",
         "available": true
       }
     },
