@@ -4,8 +4,8 @@
     "internal": {
       "android": {
         "version": "0.2.40",
-        "build": 74,
-        "notes": "版本更新至0.2.40；裝備詳情、強化與進階頁改為第二層，隱藏底部導航；配裝完成統一由頁首返回，保留背包篩選與來源。",
+        "build": 75,
+        "notes": "",
         "available": true
       }
     },
