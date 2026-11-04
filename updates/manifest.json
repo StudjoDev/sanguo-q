@@ -3,9 +3,9 @@
   "channels": {
     "internal": {
       "android": {
-        "version": "0.2.40",
-        "build": 76,
-        "notes": "",
+        "version": "0.2.41",
+        "build": 77,
+        "notes": "修正領獎與兵營升級的存檔重試、試煉進度、手機觸控及小螢幕操作。",
         "available": true
       }
     },
