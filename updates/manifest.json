@@ -4,8 +4,8 @@
     "internal": {
       "android": {
         "version": "0.2.42",
-        "build": 78,
-        "notes": "版本更新至0.2.42",
+        "build": 79,
+        "notes": "武將戰場身高依演義重新調整；武將立繪加入眨眼；設定頁加入 AI 內容說明與音效授權",
         "available": true
       }
     },
